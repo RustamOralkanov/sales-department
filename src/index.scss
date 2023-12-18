@@ -1,0 +1,87 @@
+@import "./assets/styles/bootstrap_reboot";
+@import "./assets/styles/variables";
+
+#sales-department {
+    padding: 70px 0 100px;
+    font-family: "TT Interfaces", sans-serif;
+}
+
+@font-face {
+    font-family: "TT Interfaces ExtBd";
+    src: url("./assets/fonts/TTInterfaces-ExtraBold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces ExtLt";
+    src: url("./assets/fonts/TTInterfaces-ExtraLight.woff2") format("woff2");
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces";
+    src: url("./assets/fonts/TTInterfaces-Black.woff2") format("woff2");
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces Med";
+    src: url("./assets/fonts/TTInterfaces-MediumItalic.woff2") format("woff2");
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces Med";
+    src: url("./assets/fonts/TTInterfaces-Medium.woff2") format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces SemBd";
+    src: url("./assets/fonts/TTInterfaces-SemiBold.woff2") format("woff2");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces";
+    src: url("./assets/fonts/TTInterfaces-Bold.woff2") format("woff2");
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces";
+    src: url("./assets/fonts/TTInterfaces-Light.woff2") format("woff2");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces";
+    src: url("./assets/fonts/TTInterfaces-Regular.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "TT Interfaces";
+    src: url("./assets/fonts/TTInterfaces-Thin.woff2") format("woff2");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
